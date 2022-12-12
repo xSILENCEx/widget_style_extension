@@ -1,0 +1,1 @@
+library widget_style_extension;
