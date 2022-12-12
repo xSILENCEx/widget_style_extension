@@ -1,3 +1,3 @@
-# Stack Board Item
+# Widget style extension
 
-A Flutter package of stack board basic item.
+A Flutter package of widget style extension.
