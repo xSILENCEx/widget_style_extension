@@ -99,7 +99,7 @@
     },
     {
       "name": "stack_board_item",
-      "rootUri": "file:///Users/mike/flutter/.pub-cache/hosted/pub.flutter-io.cn/stack_board_item-0.0.1+4",
+      "rootUri": "file:///Users/mike/flutter/.pub-cache/hosted/pub.flutter-io.cn/stack_board_item-0.0.1+7",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
@@ -146,7 +146,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-12-12T06:49:23.838173Z",
+  "generated": "2022-12-13T07:10:19.423175Z",
   "generator": "pub",
   "generatorVersion": "2.18.5"
 }

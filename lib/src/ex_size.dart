@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:stack_board_item/stack_board_item.dart';
+import 'package:stack_board_item/helpers.dart';
 
 extension ExSize on Size {
   Map<String, dynamic> toJson() {

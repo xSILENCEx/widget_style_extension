@@ -1,5 +1,5 @@
 import 'package:flutter/painting.dart';
-import 'package:stack_board_item/stack_board_item.dart';
+import 'package:stack_board_item/helpers.dart';
 
 extension ExOffset on Offset {
   Map<String, dynamic> toJson() {

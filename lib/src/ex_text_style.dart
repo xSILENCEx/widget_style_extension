@@ -1,5 +1,5 @@
 import 'package:flutter/painting.dart';
-import 'package:stack_board_item/stack_board_item.dart';
+import 'package:stack_board_item/helpers.dart';
 import 'ex_ locale.dart';
 
 extension ExTextStyle on TextStyle {
